@@ -1,0 +1,4 @@
+- 👋 olá, meu nome é @HeitorAluno2
+- 👀 meu email de contato é @heitor.batista.oliveira@escola.pr.gov.br
+- 🌱 eu estou interessado em aprender e progamar novas linguagens.
+- 💞️ Eu estou aprendendo recentemente a progamar a lingua JavaScript e Scrath 
